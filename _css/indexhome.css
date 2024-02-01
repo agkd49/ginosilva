@@ -1,0 +1,150 @@
+body {
+	†font-size: 100%;
+	background: #000;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	font-size: 100%;
+}
+.container {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+	text-decoration: none;
+	background: url(../_images/index_bkgd1.jpg) no-repeat;
+	text-align: left;
+	width: 1028px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.logo {
+	float: left;
+	height: 150px;
+	width: 310px;
+	margin-top: 100px;
+	margin-left: 100px;
+	border-width: 0px;
+	border-style: none;
+}
+.header {
+	background: url(none) no-repeat;
+	height: 143px;
+	width: 1028px;
+}
+.headersection {
+	float: right;
+	height: 62px;
+	width: 610px;
+	margin-top: 145px;
+	background: no-repeat right;
+}
+
+.topNav {
+	height: 18px;
+	width: 324px;
+	float: right;
+	margin-top: 4px;
+}
+
+
+.content {
+	height: 447px;
+	width: 1028px;
+}
+
+.container .content .headersection table tr td ul {
+	font-size: 0.83em;
+	line-height: 1.6;
+	text-decoration: none;
+	margin-top: 0px;
+	letter-spacing: 0.05em;
+	word-spacing: 0.03em;
+	text-shadow: 1px 1px 7px #000;
+}
+
+.footer {
+	width: 1028px;
+	top: 590px;
+	background: url(none) no-repeat;
+	height: 580px;
+}
+
+.footerTable {
+	font-family: Arial, Helvetica, sans-serif;
+	float: left;
+	margin-top: 22px;
+	margin-left: 60px;
+}
+
+.footerInfoTable {
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.65em;
+	color: #FFF;
+	text-decoration: none;
+	font-style: normal;
+	line-height: 1.3;
+	text-shadow:1px 1px 3px #333;
+}
+
+.footerInfoTableLrg {
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+	text-decoration: none;
+	font-style: normal;
+	line-height: 1.3;
+	letter-spacing: 0.03em;
+	word-spacing: 0.1em;
+	vertical-align: middle;
+	font-size: 0.7em;
+	text-shadow:1px 1px 3px #333;
+}
+
+
+
+#apDiv5 {
+	position:relative;
+	width:258px;
+	height:120px;
+	z-index:4;
+	float: left;
+	padding: 6px 0px 0px 2px;
+}
+
+
+
+#navTable {
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding: 0px;
+	width: 210px;
+}
+
+
+a:link, a:visited {
+	text-decoration:none;
+	color: #FC3;
+}
+a:hover, a:active, a:focus {
+	color: #FFF;
+	text-decoration:none;
+	font-weight: 500;
+	letter-spacing: 0.12em;
+	word-spacing: 0.04em;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+ul { color: #FFF; }*/
+.container .content .headersection table tr td p {
+	color: #FFF;
+	font-weight: normal;
+}
+
+#yellow {
+	color:#FC#;
+}
+
+
+a img {border: none; }
