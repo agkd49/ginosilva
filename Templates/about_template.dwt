@@ -66,11 +66,11 @@ function MM_swapImage() { //v3.0
 
   <!--CONTENT-->
   <div class="content">
-    <div class="logo"><a href="../index.html"><img src="../_images/pwrlogo_on.png" alt="Power Logo" width="310" height="150" id="Image2" onmouseover="MM_swapImage('Image2','','../_images/pwrlogo_hover.png',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+    <div class="logo"><a href="../index.html"><img src="../images/pwrlogo_on.png" alt="Power Logo" width="310" height="150" id="Image2" onmouseover="MM_swapImage('Image2','','../images/pwrlogo_hover.png',1)" onmouseout="MM_swapImgRestore()" /></a></div>
 <div class="headersection">
       <table width="610" border="0" align="right" cellpadding="0" cellspacing="0">
         <tr>
-          <td colspan="2"><img src="../_images/title_about.png" width="424" height="68" alt="About" align="right" /></td>
+          <td colspan="2"><img src="../images/title_about.png" width="424" height="68" alt="About" align="right" /></td>
         </tr>
         <tr align="left" valign="top">
           <td width="258" height="180">&nbsp;</td>
